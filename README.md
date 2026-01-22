@@ -21,7 +21,7 @@ Sou Gabriel Luiz N. da Silva, tenho 21 anos e sou natural de Assis, estado de SÃ
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSI1zhsI4bl1kMPUr5lUngg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="[www.linkedin.com/in/gabriellnsilva](https://www.linkedin.com/in/gabriellnsilva/)">
+    <a href="www.linkedin.com/in/gabriellnsilva">
         <img 
             alt="Meu Linkedin" 
             title="Meu Linkedin" 
